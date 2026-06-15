@@ -5,7 +5,7 @@
 This project focuses on detecting and tracking vehicles in a parking lot using a deep learning-based object detection model. The system aims to automate vehicle monitoring by identifying different vehicle types, tracking their movement, measuring the time each vehicle spends parked, and analyzing vehicle color using image processing techniques.
 The main goal of this project is to support smarter parking lot management by reducing manual monitoring, improving organization, and generating useful statistical insights about parking usage patterns.
 
-#![Demo GIF](./download.gif)
+![Demo GIF](./download2.gif)
 [Watch Full Demo Video](./download.mp4)
 
 ## Project Objectives
