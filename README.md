@@ -24,9 +24,15 @@ The object detection model used in this project is based on **YOLOv8 Nano (YOLOv
 ## Transfer Learning and Fine-Tuning
 The project uses a pre-trained **YOLOv8 Nano model** and fine-tunes it on a custom dataset.
 
-## Tools and Libraries Used
 
-*
-*
-*
-*
+### Frameworks & Libraries
+
+![YOLOv8](https://img.shields.io/badge/YOLOv8-111827?style=flat-square)
+![Ultralytics](https://img.shields.io/badge/Ultralytics-2563eb?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
+![Pillow](https://img.shields.io/badge/Pillow-8B5CF6?style=flat-square&logo=python&logoColor=white)
