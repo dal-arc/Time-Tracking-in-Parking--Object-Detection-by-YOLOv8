@@ -6,6 +6,7 @@ This project focuses on detecting and tracking vehicles in a parking lot using a
 The main goal of this project is to support smarter parking lot management by reducing manual monitoring, improving organization, and generating useful statistical insights about parking usage patterns.
 
 ![Demo GIF](./download2.gif)
+
 [Watch Full Demo Video](./download.mp4)
 
 ## Project Objectives
