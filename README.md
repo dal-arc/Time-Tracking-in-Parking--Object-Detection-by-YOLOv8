@@ -20,13 +20,9 @@ The main goal of this project is to support smarter parking lot management by re
 
 ## Model Training: YOLOv8 Nano
 
-The object detection model used in this project is based on **YOLOv8 Nano (YOLOv8n)**. YOLOv8 provides multiple model versions with different trade-offs between speed, model size, and detection accuracy.
-
+The object detection model used in this project is based on **YOLOv8 Nano (YOLOv8n)**. 
 ## Transfer Learning and Fine-Tuning
-Instead of training the model from scratch, this project uses a pre-trained **YOLOv8 Nano model** and fine-tunes it on a custom dataset.
-
-This approach applies **Transfer Learning**, where the model benefits from knowledge learned from large-scale datasets and adapts it to the target detection task. Fine-tuning helps reduce training time and improves detection performance compared to building a model from the beginning.
-
+The project uses a pre-trained **YOLOv8 Nano model** and fine-tunes it on a custom dataset.
 
 ## Tools and Libraries Used
 
