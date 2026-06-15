@@ -31,7 +31,5 @@ This approach applies **Transfer Learning**, where the model benefits from knowl
 *
 *
 
-## Project Status
-
 This project includes object detection, vehicle tracking, color analysis, parking duration calculation, and statistical reporting. Further improvements may include enhancing tracking accuracy, improving color classification, optimizing real-time performance, and expanding the reporting dashboard.
 
