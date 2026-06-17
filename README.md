@@ -18,10 +18,11 @@ The main goal of this project is to support smarter parking lot management by re
 * Generate statistical reports about vehicle activity and parking behavior.
 * Improve parking lot monitoring through automation and data-driven insights.
 
-## Model Training: YOLOv8 Nano
+## Model Training:
 
 The object detection model used in this project is based on **YOLOv8 Nano (YOLOv8n)**. 
 ## Transfer Learning and Fine-Tuning
+
 The project uses a pre-trained **YOLOv8 Nano model** and fine-tunes it on a custom dataset.
 
 
